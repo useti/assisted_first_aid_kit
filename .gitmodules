@@ -1,0 +1,3 @@
+[submodule "SOFTWARE/Controller/gprs-shield"]
+	path = SOFTWARE/Controller/gprs-shield
+	url = https://github.com/amperka/gprs-shield.git
